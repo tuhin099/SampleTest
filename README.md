@@ -1,4 +1,4 @@
 SampleTest
 ==========
 
-Sample repository for testing code base
+Sample repository for testing code base in Master branch.
